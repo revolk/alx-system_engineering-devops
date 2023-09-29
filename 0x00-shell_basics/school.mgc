@@ -1,3 +1,11 @@
 #!/bin/bash
-file -m school.mgc *
+0   string  text/plain    0-current_working_directory
+100   string  text/plain    100-lets_move
+101   string  text/plain    101-clean_emacs
+102   string  text/plain    102-tree
+103   string  text/plain    103-commas
+10    string  text/plain    10-back
+11    string  text/plain    11-lists
+12    string  text/plain    12-file_type
+# Add more entries for other files as needed
 
